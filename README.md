@@ -14,6 +14,7 @@ In this map, we can see that the accurate insurance premiums will be double, tri
 ![Home Sales Map with legend](https://github.com/Patrick-Cleary/Florida_Climate_Risk_Real_Estate/assets/162040488/f35d7351-ac30-470a-831e-f6c7f1893f2e)
 
 When you compare it with this map of home prices you see that many of the riskiest properties are in the most expensive areas. My regression analysis found that if two homes are equal in every respect – same size, same distance from the beach, same amenities – but House A is going to have its premium increase by 100% more than House B, then House A will sell for 4% less than House B.
+
 So, is climate risk priced in? Yes…but only a little bit. 
 
 A home is the most expensive asset that most people own. If the value of a bunch of homes goes down at the same time, this causes big problems in the wider economy, even leading to a financial crisis. This is why insurance is so important: it acts as a canary in the coal mine of the climate crisis, bringing the future risk of climate change forward into today. 
